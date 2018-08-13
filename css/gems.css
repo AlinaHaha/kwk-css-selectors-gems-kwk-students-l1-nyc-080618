@@ -1,7 +1,5 @@
 /* Select the image with a id of ruby */
-id= "ruby"
-
-css/gems.css {
+#ruby {
   position: absolute;
   z-index: 1;
   top: 315px;
