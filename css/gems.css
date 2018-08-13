@@ -1,13 +1,15 @@
 /* Select the image with a id of ruby */
 
-#sand img  {
+/*selector for ruby goes here */  {
   position: absolute;
   z-index: 1;
   top: 315px;
   left: 175px;
 }
 
-#sand img
+/* Select the image with class of emerald */
+
+/*selector for emerald goes here */  {
   position: absolute;
   z-index: 2;
   top: 350px;
