@@ -1,7 +1,7 @@
 /* Select the image with a id of ruby */
-.
+id= "ruby"
 
- css/gems.css {
+css/gems.css {
   position: absolute;
   z-index: 1;
   top: 315px;
